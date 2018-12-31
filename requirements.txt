@@ -1,0 +1,5 @@
+git+git://github.com/guillaumehottin/url_shortener.git
+Flask==1.0.2
+Flask-RESTful==0.3.6
+dnspython==1.15.0
+pymongo>=3.7.2
